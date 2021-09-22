@@ -1,0 +1,1 @@
+The data can be obtained from https://physionet.org/physiotools/mimic-code/mednli/

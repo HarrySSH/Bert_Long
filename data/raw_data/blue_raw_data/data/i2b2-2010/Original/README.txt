@@ -1,0 +1,1 @@
+The 2010 i2b2 data can be obtained from https://www.i2b2.org/NLP/DataSets/
